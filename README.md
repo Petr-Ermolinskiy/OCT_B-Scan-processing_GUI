@@ -4,7 +4,7 @@
 
 ## Авторы
 
-Разработчики программного кода на Mathcad: Башкатов Алексей Николаевич и Генина Элина Алексеевна. 
+Разработчики программного кода на [Mathcad](https://en.wikipedia.org/wiki/Mathcad): Башкатов Алексей Николаевич и Генина Элина Алексеевна. 
 
 Разработчик графического интерфейса на Python: Ермолинский Петр Борисович.
 
@@ -23,7 +23,7 @@ __Note__: all comments in the code as well as in the GUI are written in Russian.
 
 ## Authors
 
-Developers of program code in Mathcad: Bashkatov A.N. and Genina E.A. 
+Developers of program code in [Mathcad](https://en.wikipedia.org/wiki/Mathcad): Bashkatov A.N. and Genina E.A. 
 
 Developer of Python GUI: Ermolinskiy P.B.
 
